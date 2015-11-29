@@ -1,0 +1,10 @@
+Session.vim
+tags
+*.sw*
+__pycache__/
+build/
+debug.log
+dist/
+py_nugetfee.egg-info/
+setuptools-7.0-py3.4.egg
+setuptools-7.0.zip
