@@ -17,7 +17,7 @@ sudo python3 setup.py install
 Create a file containing:
 
 ```
-#!/bin/python3
+#!/usr/bin/python3
 from pynugetfee import Application
 application = Application()
 ```
