@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 #
-# Project: py-nuserv
+# Project: py-nugetfee
 # File: setup.py
 #
 # Copyright 2015 Matthew Mitchell
